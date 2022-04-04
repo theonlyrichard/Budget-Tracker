@@ -17,4 +17,4 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Incomplete
 ```
-Unable to complete, receiving weird mongoose error from node modules, will circle back to find out was is wrong. 
+Unable to complete, receiving weird mongoose error from node modules, will circle back to find out was is wrong. ![Screen Shot 2022-04-03 at 8 44 29 PM](https://user-images.githubusercontent.com/93751925/161470483-9e7bb674-74ce-4448-9cd5-d7a48292ec80.png)
